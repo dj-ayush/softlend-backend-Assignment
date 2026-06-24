@@ -85,7 +85,7 @@ softlend-backend/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dj-ayush/softlend-backend_Assignment.git
+git clone https://github.com/dj-ayush/softlend-backend-Assignment.git
 cd softlend-backend_Assignment
 ```
 
